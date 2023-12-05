@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CBE6177E-3606-4CA0-A549-E934894B8184"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9CF5AC9-EB25-489C-899A-7C3044C12AD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../FindMyIP/Classes/IPDetailsMVVM/View/IPDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D9CF5AC9-EB25-489C-899A-7C3044C12AD3 - 9e75a8c80e71210b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FindMyIP.IPDetailsView.body.getter : some"
+                  moduleName = "FindMyIP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh/NewProjects/FindMyIP/FindMyIP/Classes/IPDetailsMVVM/View/IPDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "D9CF5AC9-EB25-489C-899A-7C3044C12AD3 - 2d2b77da14a6b84c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Swift.String)&gt;, Swift.String, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FindMyIP.IPDetailsView.body.getter : some"
+                  moduleName = "FindMyIP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh/NewProjects/FindMyIP/FindMyIP/Classes/IPDetailsMVVM/View/IPDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "D9CF5AC9-EB25-489C-899A-7C3044C12AD3 - b9daa3bc4d959411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String) -&gt; Swift.Optional&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Swift.String)&gt;, Swift.String, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FindMyIP.IPDetailsView.body.getter : some"
+                  moduleName = "FindMyIP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh/NewProjects/FindMyIP/FindMyIP/Classes/IPDetailsMVVM/View/IPDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "D9CF5AC9-EB25-489C-899A-7C3044C12AD3 - b9daa3bc4d959430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String) -&gt; Swift.Optional&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Swift.String)&gt;, Swift.String, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FindMyIP.IPDetailsView.body.getter : some"
+                  moduleName = "FindMyIP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh/NewProjects/FindMyIP/FindMyIP/Classes/IPDetailsMVVM/View/IPDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

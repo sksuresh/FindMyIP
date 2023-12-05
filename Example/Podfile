@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'FindMyIP_Example' do
+  pod 'FindMyIP', :path => '../'
+  pod 'Alamofire'
+  
+  target 'FindMyIP_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

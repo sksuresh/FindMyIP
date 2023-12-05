@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.8.1)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - FindMyIP (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Alamofire
+  - FBSnapshotTestCase (~> 2.1.4)
+  - FindMyIP (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  FindMyIP:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  FindMyIP: b8d7c589a982d3d1bd30c4e4be8315263438f9c0
+
+PODFILE CHECKSUM: 432fd9671a122ea247435d055e98656023ff0c36
+
+COCOAPODS: 1.14.3
